@@ -6,7 +6,7 @@ Github theme with highlightjs syntax highlighter.
 
 File: line-numbers.html
 
-<img src="https://github.com/atomjoy/highlightjs-github/blob/main/line-numbers.png?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/atomjoy/highlightjs/main/line-numbers.png" width="100%">
 
 ### Styles
 
